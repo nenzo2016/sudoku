@@ -1,5 +1,8 @@
-# sudoku
-[online](http://sudoku.madao.online)
+# 数独
+
+Vue CLI 3 + Mint + Vue-router + Vuex
+
+h5[online](http://sudoku.madao.online)
 ## Project setup
 ```
 npm install
