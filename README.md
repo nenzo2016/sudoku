@@ -1,6 +1,6 @@
 # 数独
 
-Vue CLI 3 + Mint + Vue-router + Vuex
+Vue CLI 3 + Mint + Vue-router + Vuex + axios
 
 h5[online](http://sudoku.madao.online)
 ## Project setup
